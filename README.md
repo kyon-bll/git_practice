@@ -1,2 +1,1 @@
-# git_practice
-git, github practice
+## this is a test repository.
